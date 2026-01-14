@@ -1,10 +1,7 @@
-# Ignore trained models
+# Model files
 *.h5
 *.pkl
 
-# Ignore datasets
-books_pdf/
+# Data
 *.pdf
-
-# Python cache
-__pycache__/
+books_pdf/
