@@ -1,6 +1,4 @@
 # Model files
-*.h5
-*.pkl
 
 # Data
 *.pdf
