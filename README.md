@@ -1,6 +1,6 @@
 ﻿# 🧠 PixelWord – Context-Aware Next Word Prediction (NLP + LSTM)
 
-LexiNext is an end-to-end NLP project that performs context-aware next-word prediction using a deep learning LSTM-based language model.  
+PixelWord is an end-to-end NLP project that performs context-aware next-word prediction using a deep learning LSTM-based language model.  
 The model is trained on 750k+ words extracted from books, learning sequential language patterns to predict the most probable next word given a text context.  
 A live interactive web demo is built using Streamlit.
 
@@ -143,6 +143,7 @@ streamlit run app.py
 ```
 UI URL:  
 http://localhost:8501  
+
 
 
 
